@@ -10,7 +10,7 @@ describe('workspace-project App', () => {
 
   it('should display welcome message', () => {
     page.navigateTo();
-    expect(page.getTitleText()).toEqual('ivy-app app is running!');
+    expect(page.getTitleText()).toEqual('ivy-i18n-attributes app is running!');
   });
 
   afterEach(async () => {

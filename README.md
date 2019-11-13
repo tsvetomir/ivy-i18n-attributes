@@ -1,6 +1,6 @@
-# IvyApp
+# IvyI18nAttributes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.0-next.8.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.0-rc.1.
 
 ## Development server
 
